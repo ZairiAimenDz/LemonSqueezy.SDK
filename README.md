@@ -1,1 +1,1 @@
-# LemonSqueezy.SDK
+# LemonSqueezy.SDK (Work In Progress)
